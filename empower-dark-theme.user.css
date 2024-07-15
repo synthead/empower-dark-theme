@@ -10,8 +10,8 @@
 ==/UserStyle== */
 
 @-moz-document
-url-prefix("https://home.personalcapital.com/page/login/app"),
-url-prefix("https://home.personalcapital.com/page/login/goHome")
+url("https://home.personalcapital.com/page/login/app"),
+url("https://home.personalcapital.com/page/login/goHome")
 {
   html {
     background-color: black;
